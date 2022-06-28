@@ -1,3 +1,5 @@
+![desktop-gc5c641f33_1920](https://user-images.githubusercontent.com/97055021/176085460-cd10997a-ba31-4cb9-8982-82ef5a7359b0.jpg)
+![doll](https://user-images.githubusercontent.com/97055021/176085593-fb2e74ca-28b0-4f2a-8b0b-84895891a513.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Lorebe25/Encriptador-mejorado/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
